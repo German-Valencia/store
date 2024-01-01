@@ -1,0 +1,19 @@
+# .gitignore
+
+# Ignorar la carpeta node_modules
+/node_modules/
+
+# Ignorar los archivos de registro
+*.log
+
+# Ignorar la carpeta de construcción
+/dist
+
+# Ignorar los archivos de entorno
+.env
+
+# Ignorar la carpeta de caché
+/.cache/
+
+# Ignorar la carpeta de cobertura de pruebas
+/coverage/
