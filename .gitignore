@@ -17,3 +17,20 @@
 
 # Ignorar la carpeta de cobertura de pruebas
 /coverage/
+
+# Archivos de producción
+/build
+
+# Archivos de registro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor de configuraciones y archivos
+/.idea
+/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
